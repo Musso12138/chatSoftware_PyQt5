@@ -1,0 +1,5 @@
+一个用pyqt5开发的TCP聊天程序
+
+没有进行编译
+
+windows10下通过运行bin中的server.cmd和login.cmd来运行程序

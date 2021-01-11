@@ -1,0 +1,7 @@
+项目开发平台：Windows10家庭中文版
+
+项目运行平台：Windows10
+
+本项目未经编译，可通过"\bin"或"\source"路径中的"server.cmd"和"login.cmd"进行启动
+
+具体测试方法请参见"\bin"路径下"说明.txt"
